@@ -1,0 +1,86 @@
+# Windows build temp cmake file
+CMakeSettings.json
+
+# Docs tar file created by travis deploy
+.travis/*.tar.gz
+
+# CMake configured files
+cpp/open3d/Open3D.h
+cpp/open3d/Open3DConfig.h
+cpp/open3d/visualization/shader/Shader.h
+util/pip_package/setup.py
+
+# CMake temp file from Visual Studio
+CMakeSettings.json
+
+# Temp directories
+build*/
+cmake-build-debug/
+cmake-build-release/
+docs/_out/
+util/pip_package/dist/
+util/conda_package/dist/
+doxygen/
+docs/python_api/
+node_modules/
+
+# Editor files
+*.*~
+
+# Local configs
+_vimrc_local.vim
+.vs/
+.vscode/
+.clangd/
+
+# Build artifacts
+**/package-lock.json
+*.pyc
+__pycache__
+._*
+.DS_Store
+.vscode
+.idea
+*.egg-info/
+*.ipynb_checkpoints/
+*.py[cod]
+*.bak
+node_modules/
+static/
+*.old*
+compile_commands.json
+
+# Example resources
+examples/python/ReconstructionSystem/dataset/
+examples/test_data/fountain_small
+examples/test_data/Armadillo.ply
+examples/test_data/Bunny.ply
+examples/test_data/eagle.ply
+examples/test_data/voxelized.ply
+examples/python/Basic/voxel_grid_test.ply
+examples/python/Benchmark/testdata/
+examples/python/Misc/test.jpg
+examples/test_data/GraphOptimization/pose_graph_example_fragment_optimized.json
+examples/test_data/GraphOptimization/pose_graph_example_global_optimized.json
+examples/test_data/depth/
+examples/test_data/image/
+examples/test_data/sync.ply
+examples/test_data/sync.png
+examples/python/Advanced/multiway_registration.pcd
+examples/python/Advanced/test.json
+examples/python/Advanced/viewpoint.json
+examples/python/Basic/copy_of_fragment.pcd
+examples/python/Basic/copy_of_knot.ply
+examples/python/Basic/copy_of_lena_color.jpg
+examples/python/Basic/copy_of_crate.mtl
+examples/python/Basic/copy_of_crate.png
+examples/python/Basic/copy_of_crate.obj
+
+# doc
+docs/test_data
+docs/tutorial/**/*.ipynb
+docs/tutorial/**/*.py
+docs/tutorial/**/*.jpg
+docs/tutorial/**/*.ply
+docs/tutorial/**/*.pcd
+docs/tutorial/**/*.json

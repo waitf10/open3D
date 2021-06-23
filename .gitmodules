@@ -1,0 +1,54 @@
+[submodule "3rdparty/pybind11"]
+	path = 3rdparty/pybind11
+	url = git://github.com/pybind/pybind11.git
+[submodule "3rdparty/eigen-git-mirror"]
+	path = 3rdparty/Eigen
+	url = git://gitlab.com/libeigen/eigen.git
+[submodule "3rdparty/qhull"]
+	path = 3rdparty/qhull
+	url = git://github.com/qhull/qhull.git
+	branch = master
+[submodule "3rdparty/googletest"]
+	path = 3rdparty/googletest
+	url = git://github.com/google/googletest.git
+	branch = master
+[submodule "3rdparty/tinyobjloader"]
+	path = 3rdparty/tinyobjloader/tinyobjloader
+	url = git://github.com/syoyo/tinyobjloader.git
+	branch = master
+[submodule "3rdparty/open3d_sphinx_theme"]
+	path = 3rdparty/open3d_sphinx_theme
+	url = git://github.com/intel-isl/open3d_sphinx_theme.git
+[submodule "3rdparty/fmt"]
+	path = 3rdparty/fmt
+	url = git://github.com/fmtlib/fmt.git
+[submodule "3rdparty/tinygltf"]
+	path = 3rdparty/tinygltf/tinygltf
+	url = git://github.com/syoyo/tinygltf.git
+[submodule "3rdparty/libjpeg-turbo/libjpeg-turbo"]
+	path = 3rdparty/libjpeg-turbo/libjpeg-turbo
+	url = git://github.com/libjpeg-turbo/libjpeg-turbo.git
+[submodule "3rdparty/PoissonRecon/Open3D-PoissonRecon"]
+	path = 3rdparty/PoissonRecon/PoissonRecon
+	url = git://github.com/intel-isl/Open3D-PoissonRecon.git
+[submodule "3rdparty/parallelstl"]
+	path = 3rdparty/parallelstl
+	url = git://github.com/oneapi-src/oneDPL
+[submodule "3rdparty/cub"]
+	path = 3rdparty/cub
+	url = git://github.com/NVlabs/cub
+[submodule "3rdparty/nanoflann"]
+	path = 3rdparty/nanoflann
+	url = git://github.com/jlblancoc/nanoflann
+[submodule "3rdparty/cutlass"]
+	path = 3rdparty/cutlass
+	url = git://github.com/NVIDIA/cutlass
+[submodule "3rdparty/filament/filament"]
+	path = 3rdparty/filament/filament
+	url = git://github.com/google/filament.git
+[submodule "3rdparty/imgui"]
+	path = 3rdparty/imgui
+	url = git://github.com/ocornut/imgui.git
+[submodule "3rdparty/benchmark"]
+	path = 3rdparty/benchmark
+	url = git://github.com/google/benchmark.git
